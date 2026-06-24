@@ -6,7 +6,7 @@
 
 ### 基于 MIT-BIH 心律失常数据库验证的 ECG 智能诊断平台
 
-[🇨🇳 中文版](./README_CN.md) | [🇺🇸 English Version](./README.md)
+[Chinese 简体中文](./README_CN.md) | [English  英文](./README.md)
 
 ![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green)
 ![MIT](https://img.shields.io/badge/License-MIT-lightgrey)
