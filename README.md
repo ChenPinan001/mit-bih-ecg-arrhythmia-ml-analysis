@@ -307,6 +307,3 @@ Experimental results demonstrate that the 1D-CNN model outperforms traditional m
 # 📄 License
 
 This project is developed for academic research and course design purposes and is distributed under the MIT License.
-
-```
-```
