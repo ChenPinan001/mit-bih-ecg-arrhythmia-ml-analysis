@@ -201,7 +201,7 @@ mit-bih-ecg-arrhythmia-ml-dl-system
 ## 克隆项目
 
 ```bash
-git clone https://github.com/YourName/mit-bih-ecg-arrhythmia-ml-dl-system.git
+git clone https://github.com/ChenPinan001/mit-bih-ecg-arrhythmia-ml-analysis.git
 cd mit-bih-ecg-arrhythmia-ml-dl-system
 ```
 
