@@ -205,7 +205,7 @@ mit-bih-ecg-arrhythmia-ml-dl-system
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YourName/mit-bih-ecg-arrhythmia-ml-dl-system.git
+git clone  https://github.com/ChenPinan001/mit-bih-ecg-arrhythmia-ml-analysis.git
 cd mit-bih-ecg-arrhythmia-ml-dl-system
 ```
 
