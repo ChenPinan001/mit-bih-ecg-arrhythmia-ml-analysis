@@ -303,6 +303,3 @@ Loss = CrossEntropyLoss
 # 📄 许可证
 
 本项目仅用于学术研究与课程设计，遵循 MIT License 开源协议。
-
-```
-```
