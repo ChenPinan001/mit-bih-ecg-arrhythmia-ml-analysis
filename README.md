@@ -6,7 +6,7 @@
 
 ### ECG Intelligent Diagnosis Platform Validated on MIT-BIH Arrhythmia Database
 
-[Chinese 简体中文](./README_CN.md) | [English](./README.md)
+[简体中文](./README_CN.md) | [English](./README.md)
 
 ![PyQt6](https://img.shields.io/badge/PyQt6-GUI-green)
 ![MIT](https://img.shields.io/badge/License-MIT-lightgrey)
